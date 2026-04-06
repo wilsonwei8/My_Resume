@@ -1,0 +1,347 @@
+{
+  "picture": {
+    "hidden": false,
+    "url": "https://rxresu.me/uploads/019d603b-cb0e-71bf-b9ba-e66256e4f493/pictures/1775436458626.webp",
+    "size": 100,
+    "rotation": 0,
+    "aspectRatio": 0.666666,
+    "borderRadius": 0,
+    "borderColor": "rgba(0, 0, 0, 0.5)",
+    "borderWidth": 0,
+    "shadowColor": "rgba(0, 0, 0, 0.5)",
+    "shadowWidth": 0
+  },
+  "basics": {
+    "name": "尉皓森",
+    "headline": "",
+    "email": "weihaosen79@gmail.com",
+    "phone": "+86 15309266817",
+    "location": "中国香港",
+    "website": {
+      "url": "",
+      "label": ""
+    },
+    "customFields": []
+  },
+  "summary": {
+    "title": "",
+    "columns": 1,
+    "hidden": true,
+    "content": ""
+  },
+  "sections": {
+    "profiles": {
+      "title": "",
+      "columns": 1,
+      "hidden": true,
+      "items": []
+    },
+    "experience": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "019d6048-bdda-70ec-88bc-26198d30cf59",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "company": "中信银行广州分行",
+          "position": "综合管理部实习生",
+          "location": "中国广州",
+          "period": "2024.07 - 2024.08",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": "<ul><li><p>协助跨部门协调工作，参与汇总并分发全行各部门及下属支行的季度数据 。</p></li><li><p>协作完成 4 场分行级会议的筹备与会议纪要编写，准确提取管理层战略部署的核心要点 。</p></li><li><p>深度参与 3 项行业研究项目，独立完成调研报告拆解，并辅助构建多维分析模型 。</p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "019d6049-c5a6-700b-865e-6c087fe62b85",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "company": "香港科技园 (HKSTP) 校园风投挑战赛",
+          "position": "20 强团队",
+          "location": "香港特别行政区",
+          "period": "2024.01 - 2024.03",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": "<p>分析农机行业潜力及案例公司（FJ Dynamics）的产品优势，提供公司估值分析及详细的投资建议 </p>",
+          "roles": []
+        }
+      ]
+    },
+    "education": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "019d6045-9717-716d-86ba-13b43b22c933",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "school": "香港大学",
+          "degree": "工程学士",
+          "area": "计算机科学专业",
+          "grade": "",
+          "location": "香港特别行政区",
+          "period": "2023.09 - 2027.07",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": "<ul><li><p><strong>奖学金</strong>：中国宋庆龄基金会致远港澳学子助学金、香港特别行政区政府对外交流奖金 (2024)</p></li><li><p><strong>已修课程</strong>：Python、C++、算法基础、离散数学、数据库管理系统 (SQL)、软件工程</p></li></ul><p></p>"
+        },
+        {
+          "id": "019d6047-16de-761c-81d3-23f797359a48",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "school": "墨尔本大学",
+          "degree": "交换生",
+          "area": "计算机科学专业",
+          "grade": "",
+          "location": "澳大利亚",
+          "period": "2025.07 - 2025.11",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": "<ul><li><p><strong>已修课程</strong>：数据分析 (Python)、机器学习、交互与图形学 (Unity)</p></li></ul><p></p>"
+        },
+        {
+          "id": "019d6047-dd0b-7568-b0c5-66f1d7823568",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "school": "加州大学伯克利分校",
+          "degree": "交换生",
+          "area": "计算机科学专业",
+          "grade": "",
+          "location": "",
+          "period": "2026.01 - 2026.05",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": "<ul><li><p><strong>已修课程</strong>：操作系统、人工智能</p></li></ul><p></p>"
+        }
+      ]
+    },
+    "projects": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "019d604a-cc6b-7403-8c93-8d90c311652d",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "name": "Tabletop Adventure | Unity 游戏设计项目",
+          "period": "2025.09 - 2025.11",
+          "website": {
+            "url": "https://github.com/wilsonwei8/Tabletop- Adventure",
+            "label": ""
+          },
+          "description": "<p>开发并集成完整的 UI、音频及角色动画系统，实现流畅的场景切换、响应式 HUD 以及统一的游戏画面呈现 。</p>"
+        },
+        {
+          "id": "019d604b-aa6c-7014-8427-52be14c2fb57",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "name": "阿尔茨海默症预测 | 基础机器学习模型研究",
+          "period": "2025.08 - 2025.10",
+          "website": {
+            "url": "https://github.com/wilsonwei8/alzheimers_prediction",
+            "label": ""
+          },
+          "description": "<ul><li><p>实现端到端机器学习管道（数据预处理、子数据集构建、特征工程），训练并评估决策树、KNN、神经网络、逻辑回归及 SVM 模型 。</p></li><li><p>分析不同亚组的阈值效应，并产出数据可视化图表以辅助预测分析 。</p></li></ul><p></p>"
+        }
+      ]
+    },
+    "skills": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "019d604c-d6ae-7568-8974-7946d53c0eab",
+          "hidden": false,
+          "icon": "acorn",
+          "name": "具备扎实的 Python、SQL 及机器学习技术基础，同时正在备考 CFA 一级，对金融领域有浓厚兴趣 。",
+          "proficiency": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "019d604d-ad45-75ab-adea-ee7395e6060f",
+          "hidden": false,
+          "icon": "acorn",
+          "name": "拥有跨部门数据协调及风险投资分析的实战经验 。",
+          "proficiency": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "019d604e-10b1-75be-9cec-6e5b9476effa",
+          "hidden": false,
+          "icon": "acorn",
+          "name": "AI 深度使用者，擅长利用生成式 AI 工具优化工作流，精通 AI 辅助开发（如 Agentic AI tools、Cursor、NotebookLM） 。",
+          "proficiency": "",
+          "level": 0,
+          "keywords": []
+        }
+      ]
+    },
+    "languages": {
+      "title": "",
+      "columns": 3,
+      "hidden": false,
+      "items": [
+        {
+          "id": "019d604f-fdca-7529-8174-aa6325ea9806",
+          "hidden": false,
+          "language": "普通话",
+          "fluency": "母语",
+          "level": 0
+        },
+        {
+          "id": "019d6050-5057-758f-8f79-880b9ea4d1da",
+          "hidden": false,
+          "language": "英语",
+          "fluency": "熟练",
+          "level": 0
+        },
+        {
+          "id": "019d6050-8e92-73cc-9378-7ade155992c3",
+          "hidden": false,
+          "language": "粤语",
+          "fluency": "流利",
+          "level": 0
+        }
+      ]
+    },
+    "interests": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "awards": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "certifications": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "publications": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "volunteer": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "references": {
+      "title": "",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    }
+  },
+  "customSections": [],
+  "metadata": {
+    "template": "rhyhorn",
+    "layout": {
+      "sidebarWidth": 35,
+      "pages": [
+        {
+          "fullWidth": false,
+          "main": [
+            "profiles",
+            "summary",
+            "education",
+            "experience",
+            "projects",
+            "volunteer",
+            "references",
+            "skills",
+            "certifications",
+            "awards",
+            "languages",
+            "interests",
+            "publications"
+          ],
+          "sidebar": []
+        }
+      ]
+    },
+    "css": {
+      "enabled": false,
+      "value": ""
+    },
+    "page": {
+      "gapX": 4,
+      "gapY": 6,
+      "marginX": 14,
+      "marginY": 12,
+      "format": "a4",
+      "locale": "en-US",
+      "hideIcons": false
+    },
+    "design": {
+      "level": {
+        "icon": "star",
+        "type": "circle"
+      },
+      "colors": {
+        "primary": "rgba(220, 38, 38, 1)",
+        "text": "rgba(0, 0, 0, 1)",
+        "background": "rgba(255, 255, 255, 1)"
+      }
+    },
+    "typography": {
+      "body": {
+        "fontFamily": "IBM Plex Serif",
+        "fontWeights": [
+          "400",
+          "500"
+        ],
+        "fontSize": 10,
+        "lineHeight": 1.5
+      },
+      "heading": {
+        "fontFamily": "IBM Plex Serif",
+        "fontWeights": [
+          "600"
+        ],
+        "fontSize": 14,
+        "lineHeight": 1.5
+      }
+    },
+    "notes": ""
+  }
+}
